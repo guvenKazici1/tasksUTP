@@ -7,6 +7,6 @@
 
 
         Subtractor subtractor = new Subtractor();
-        System.out.println(Subtractor.subtractor(6,3));
+        System.out.println(Subtractor.subtractor(7,4));
     }
 }
